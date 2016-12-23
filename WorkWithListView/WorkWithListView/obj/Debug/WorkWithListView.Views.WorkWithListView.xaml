@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+			 xmlns:local="clr-namespace:WorkWithListView;assembly=WorkWithListView" 
+			 x:Class="WorkWithListView.Views.WorkWithListView">
+	<ContentPage.Padding>
+        <OnPlatform x:TypeArguments="Thickness" iOS="5,20,0,0" Android="0,0,0,0" />
+    </ContentPage.Padding>
+	<ContentPage.Content>
+		<StackLayout>
+			<Label Text="Lista de Contatos" TextColor="Black" HorizontalTextAlignment="Center"/>
+			<ListView x:Name="lstContacts" RowHeight="50">
+				<ListView.ItemTemplate>
+					<DataTemplate>
+						<ViewCell>
+							<StackLayout Orientation="Horizontal">
+								<Image Source="{Binding urlImage}" HorizontalOptions="Start"/>
+								<StackLayout Spacing="3" Orientation="Vertical" HorizontalOptions="Start"  VerticalOptions="Center">
+									<Label Text="{Binding name}" FontSize="18" TextColor="#2c3e50" FontFamily="HelveticaNeue-Medium"/>
+									<Label Text="{Binding phone}" FontSize="10" TextColor="#3498db" FontFamily="HelveticaNeue-Medium"/>								
+								</StackLayout>
+							</StackLayout>
+						</ViewCell>
+					</DataTemplate>
+				</ListView.ItemTemplate>
+			</ListView>
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,14 @@
+/Volumes/SSD_480/ProjectsXamarin/WorkWithListView/WorkWithListView/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Volumes/SSD_480/ProjectsXamarin/WorkWithListView/WorkWithListView/obj/Debug/WorkWithListView.App.xaml
+/Volumes/SSD_480/ProjectsXamarin/WorkWithListView/WorkWithListView/obj/Debug/WorkWithListView.Views.WorkWithListView.xaml
+/Volumes/SSD_480/ProjectsXamarin/WorkWithListView/WorkWithListView/obj/Debug/WorkWithListView.App.xaml.g.cs
+/Volumes/SSD_480/ProjectsXamarin/WorkWithListView/WorkWithListView/obj/Debug/WorkWithListView.Views.WorkWithListView.xaml.g.cs
+/Volumes/SSD_480/ProjectsXamarin/WorkWithListView/WorkWithListView/bin/Debug/WorkWithListView.dll.mdb
+/Volumes/SSD_480/ProjectsXamarin/WorkWithListView/WorkWithListView/bin/Debug/WorkWithListView.dll
+/Volumes/SSD_480/ProjectsXamarin/WorkWithListView/WorkWithListView/obj/Debug/WorkWithListView.dll
+/Volumes/SSD_480/ProjectsXamarin/WorkWithListView/WorkWithListView/obj/Debug/WorkWithListView.dll.mdb
+/Volumes/SSD_480/ProjectsXamarin/WorkWithListView/WorkWithListView/bin/Debug/Xamarin.Forms.Core.dll
+/Volumes/SSD_480/ProjectsXamarin/WorkWithListView/WorkWithListView/bin/Debug/Xamarin.Forms.Platform.dll
+/Volumes/SSD_480/ProjectsXamarin/WorkWithListView/WorkWithListView/bin/Debug/Xamarin.Forms.Xaml.dll
+/Volumes/SSD_480/ProjectsXamarin/WorkWithListView/WorkWithListView/obj/Debug/WorkWithListView.Views.WorkWithListView_Simple.xaml
+/Volumes/SSD_480/ProjectsXamarin/WorkWithListView/WorkWithListView/obj/Debug/WorkWithListView.Views.WorkWithListView_Simple.xaml.g.cs
